@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: "Inter", sans-serif;
+    color: #343a40;
+    line-height: 1;
+    display: flex;
+    justify-content: center;
+  }
+  table
+  {
+    width: 800px;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  .Chair
+  {
+    background-color: darkgreen;
+    color: aliceblue;
+    font-weight: bold;
+  }
+  .width, .depth
+  {
+    background-color:aliceblue;
+  }
+  .height, .weight
+  {
+    background-color: beige;
+  }
+  td
+  {
+    padding: 20px; 
+  }
+
+
+  
+  
